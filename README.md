@@ -1,0 +1,5 @@
+# Movie-viewership-data-visualization
+Idea is to derive insights into the movies and their voters patterns by leveraging data visualization techniques.
+Input: data for the 100 top-rated movies from the past decade along with various pieces of information about the movie, its actors, and the voters who have rated these movies online. 
+
+Output: Find interesting insights into these movies and their voters. Leverage data visualization techniques.
